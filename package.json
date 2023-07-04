@@ -1,0 +1,27 @@
+{
+  "name": "kalm-theme",
+  "displayName": "Kalm Theme",
+  "description": "A kalm and nice color theme",
+  "publisher": "kalm-theme",
+  "license": "MIT",
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/manungsa/kalm-theme.git"
+	},
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kalm",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kalm-color-theme.json"
+      }
+    ]
+  }
+}

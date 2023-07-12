@@ -1,6 +1,9 @@
 # Kalm Theme
 > A kalm, nice theme for [VS Code][1]
 
+![preview](/image/image_1.png)
+![preview](/image/image_2.png)
+
 ## What's this?
 
 Just a random colorscheme that I made for fun (cuz I didn't really like other

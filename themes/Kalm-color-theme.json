@@ -31,8 +31,8 @@
 		"editorGroupHeader.tabsBackground": "#1e1f1c",
 		"editorHoverWidget.background": "#252c28",
 		"editorHoverWidget.border": "#75715e",
-		"editorIndentGuide.activeBackground": "#767771",
-		"editorIndentGuide.background": "#464741",
+		"editorIndentGuide.activeBackground1": "#767771",
+		"editorIndentGuide.background1": "#464741",
 		"editorLineNumber.activeForeground": "#c2c2bf",
 		"editorLineNumber.foreground": "#90908a",
 		"editorSuggestWidget.background": "#272822",
@@ -709,7 +709,7 @@
 		{
 			"scope": "string",
 			"settings": {
-				"foreground": "#7a89bb"
+				"foreground": "#7786b6"
 			}
 		},
 		{
@@ -817,7 +817,7 @@
 		{
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#d69744",
+				"foreground": "#b8915f",
 				"fontStyle": ""
 			}
 		},
